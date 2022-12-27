@@ -1,4 +1,4 @@
-For App checkout here: manjunaths-shineon.netlify.app
+For App checkout here: https://manjunaths-shineon.netlify.app/
 
 # Getting Started with Create React App
 
