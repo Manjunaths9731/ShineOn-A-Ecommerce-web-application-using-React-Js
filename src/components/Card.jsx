@@ -5,7 +5,6 @@ import { mainData } from "../utils/Data";
 import { useStateValue } from "../context/StateProvider";
 import { actionType } from "../context/Reducer";
 const Card = ({ flag, data, scrollValue }) => {
-  const rowContainer = useRef();
 
   const [items, setItems] = useState([]);
 
